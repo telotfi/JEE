@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b559ac-b058-48cf-9b34-7d1c123c9684" name="Changes" comment="" />
+    <list default="true" id="86b559ac-b058-48cf-9b34-7d1c123c9684" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +52,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ma.emsi.cinema.cinema.dao" />
     </key>
@@ -90,7 +96,7 @@
       <workItem from="1684701861263" duration="31000" />
       <workItem from="1684702304291" duration="8940000" />
       <workItem from="1684840745976" duration="38357000" />
-      <workItem from="1685444877363" duration="2366000" />
+      <workItem from="1685444877363" duration="2702000" />
     </task>
     <servers />
   </component>
